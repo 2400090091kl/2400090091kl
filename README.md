@@ -193,3 +193,12 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </div>
 
 ---
+## 🔥 Coding Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=2400090091kl&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
