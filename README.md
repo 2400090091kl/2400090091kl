@@ -2,244 +2,152 @@
 
 # 👋 Hi, I'm **P. KUMARA VEERA KOWSHIK**
 
-<br>
-
-<img src="./profile.jpg"
-     width="220"
-     alt="P. KUMARA VEERA KOWSHIK">
-
-<br><br>
-
 ### 💻 CSIT Student | Aspiring Software Engineer
 
 🎓 **Koneru Lakshmaiah University**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;CSIT+Student;Problem+Solver;Java+%7C+Python+%7C+C+%7C+C%2B%2B;Building+Projects+%26+Learning+Every+Day"
-     alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;CSIT+Student;Problem+Solver;Java+%7C+Python+%7C+C+%7C+C%2B%2B;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://github.com/2400090091kl">
-  <img src="https://img.shields.io/badge/GitHub-2400090091kl-181717?style=for-the-badge&logo=github"
-       alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-2400090091kl-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kowshik-0A66C2?style=for-the-badge&logo=linkedin"
-       alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Kowshik-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **3rd Year CSIT Student** at **Koneru Lakshmaiah University**
+- 🎓 **2nd Year CSIT Student** at Koneru Lakshmaiah University
 - 💻 Aspiring **Software Engineer**
-- 🚀 Interested in **Software Development and Problem Solving**
-- 🧠 Currently strengthening my **Data Structures & Algorithms** skills
-- 🌱 Continuously learning and building practical projects
-- 🔧 I enjoy turning ideas into working applications and systems
-- 🎯 Preparing myself for **Software Engineering Internships**
+- 🧠 Interested in **Data Structures & Algorithms**
+- 🌱 Currently improving my skills in **Java, Python, C and C++**
+- 🌐 Exploring **Web Development**
+- 🐧 Comfortable working with **Linux**
+- 🔧 Using **Git & GitHub** for version control
+- 🚀 Always learning and building new projects
 
 ---
 
-## 🎯 My Focus Areas
+## 💻 Programming Languages
 
-- 💻 Software Development
-- 🧩 Data Structures & Algorithms
-- 🐍 Python Development
-- ☕ Java Development
-- 🌐 Web Development
-- 🔧 Problem Solving
-- 🚀 Building Real-World Projects
-- 📚 Continuous Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="Programming Languages">
+</p>
 
 ---
 
-## 🚀 My Projects
+## 🌐 Web Development
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Development">
+</p>
 
-<table>
-<tr>
-<td width="50%">
+---
+
+## 🧠 Data Structures & Algorithms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp" alt="Data Structures and Algorithms">
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools and Platforms">
+</p>
+
+---
+
+## 🚀 Projects
 
 ### 🚗 Car Crash Detecting Sensor
 
-An embedded safety system designed to detect potential collisions in real time and support faster emergency response.
+**Technologies Used:**
 
-**Tech Used**
+- Embedded Systems
+- Ultrasonic Sensing Technology
+- Microcontroller-Based Control
+- Servo Motor Control
+- Obstacle / Collision Detection Logic
+- Automation & Robotics
 
-`C` `Embedded Systems` `Ultrasonic Sensor`  
-`Microcontroller` `Servo Motor` `Collision Detection`
+**Description:**
 
-</td>
-
-<td width="50%">
-
-### 🎓 Student Success Tracker
-
-A student-focused project designed to track academic progress and provide useful insights into student performance and outcomes.
-
-**Tech Used**
-
-`Python` `Java` `Data Structures`  
-`Data Management` `Problem Solving`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 Retail Inventory System
-
-A CRUD-based inventory management project for managing products and inventory operations efficiently.
-
-**Tech Used**
-
-`Java` `Hibernate` `JPA`  
-`Database` `CRUD`
-
-</td>
-
-<td width="50%">
-
-### 💡 More Projects Coming Soon
-
-Currently learning, experimenting, and building new projects to strengthen my software development skills.
-
-🚀 **Learning → Building → Improving**
-
-</td>
-</tr>
-</table>
-
-</div>
+The **Car Crash Detecting Sensor** project aims to enhance road safety by detecting collisions in real time and providing prompt alerts for immediate assistance. The system uses sensor-based detection and automation technologies to identify potential collisions and improve emergency response.
 
 ---
 
-## 🏆 GitHub Stats & Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=2400090091kl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400090091kl&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=2400090091kl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=2400090091kl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2400090091kl&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="Programming Languages" />
-</p>
-
----
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Development" />
-</p>
-
----
-
-### 🧠 Core Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-181717?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Problem Solving" />
-</p>
-
----
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools and Platforms" />
-</p>
-
----
-
----
-
-## 🔗 Connect With Me
+## 📈 Most Used Languages
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400090091kl&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
 
-<td align="center">
-<a href="https://github.com/2400090091kl" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 📚 Master **Data Structures & Algorithms**
+- ☕ Improve **Java Programming**
+- 🐍 Strengthen **Python**
+- 🌐 Build modern **Web Applications**
+- 🚀 Develop real-world software projects
+- 💼 Prepare for **Software Engineering Internships**
+- 🏆 Participate in Hackathons and Coding Competitions
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/2400090091kl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-</td>
 
-<td align="center">
-<a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-</td>
 
-<td align="center">
 <a href="mailto:kowshikroyal4402@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-</td>
-
-</tr>
-</table>
 
 </div>
 
 ---
----
-
-## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2400090091kl&theme=github_dark" width="95%" alt="GitHub Contribution Activity" />
+### 💙 Thanks for visiting my profile!
+
+**⭐ Feel free to explore my repositories and connect with me!**
 
 </div>
-
----
-
-## 🔥 Coding Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=2400090091kl&theme=github-dark-blue&hide_border=true" alt="GitHub Coding Streak" />
-
-</div>
-
----
-
-<h2 align="center">🚀 Thanks for visiting my profile!</h2>
-
-<p align="center">
-💻 Building | 🧠 Learning | 🚀 Improving
-</p>
-
-<p align="center">
-⭐ Feel free to explore my repositories and projects!
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=2400090091kl&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
