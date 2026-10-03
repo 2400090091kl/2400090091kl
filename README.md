@@ -180,7 +180,7 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </a>
 
 </div>
----
+
 ---
 ## 📊 Contribution Activity
 
