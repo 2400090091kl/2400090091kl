@@ -48,3 +48,65 @@
 - 📚 Continuous Learning
 
 ---
+## 🚀 My Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Car Crash Detecting Sensor
+
+An embedded safety system designed to detect potential collisions in real time and support faster emergency response.
+
+**Tech Used**
+
+`C` `Embedded Systems` `Ultrasonic Sensor`  
+`Microcontroller` `Servo Motor` `Collision Detection`
+
+</td>
+
+<td width="50%">
+
+### 🎓 Student Success Tracker
+
+A student-focused project designed to track academic progress and provide useful insights into student performance and outcomes.
+
+**Tech Used**
+
+`Python` `Java` `Data Structures`  
+`Data Management` `Problem Solving`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Retail Inventory System
+
+A CRUD-based inventory management project for managing products and inventory operations efficiently.
+
+**Tech Used**
+
+`Java` `Hibernate` `JPA`  
+`Database` `CRUD`
+
+</td>
+
+<td width="50%">
+
+### 💡 More Projects Coming Soon
+
+Currently learning, experimenting, and building new projects to strengthen my software development skills.
+
+🚀 **Learning → Building → Improving**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
