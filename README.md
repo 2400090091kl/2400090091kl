@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **2nd Year CSIT Student** at **Koneru Lakshmaiah University**
+- 🎓 I'm a **3nd Year CSIT Student** at **Koneru Lakshmaiah University**
 - 💻 Aspiring **Software Engineer**
 - 🚀 Interested in **Software Development and Problem Solving**
 - 🧠 Currently strengthening my **Data Structures & Algorithms** skills
