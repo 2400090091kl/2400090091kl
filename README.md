@@ -200,20 +200,20 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </div>
 
 ---
-**---
+---
 
-<div align="center">
+<h2 align="center">🚀 Thanks for visiting my profile!</h2>
 
-### 🚀 Thanks for visiting my profile!
-
+<p align="center">
 💻 Building | 🧠 Learning | 🚀 Improving
+</p>
 
-<br>
-
+<p align="center">
 ⭐ Feel free to explore my repositories and projects!
+</p>
 
-<br><br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=2400090091kl&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-
-</div>**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=2400090091kl&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
