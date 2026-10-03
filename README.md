@@ -182,3 +182,14 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </div>
 
 ---
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2400090091kl&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
