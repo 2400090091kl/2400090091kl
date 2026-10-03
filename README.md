@@ -13,11 +13,11 @@
 <br>
 
 <a href="https://github.com/2400090091kl">
-  <img src="https://img.shields.io/badge/GitHub-2400090091kl-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-2400090091kl-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kowshik-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Kowshik-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 </div>
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **3nd Year CSIT Student** at **Koneru Lakshmaiah University**
+- 🎓 I'm a **3rd Year CSIT Student** at **Koneru Lakshmaiah University**
 - 💻 Aspiring **Software Engineer**
 - 🚀 Interested in **Software Development and Problem Solving**
 - 🧠 Currently strengthening my **Data Structures & Algorithms** skills
@@ -48,6 +48,7 @@
 - 📚 Continuous Learning
 
 ---
+
 ## 🚀 My Projects
 
 <div align="center">
@@ -110,27 +111,29 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </div>
 
 ---
+
 ## 🏆 GitHub Stats & Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=2400090091kl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=2400090091kl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400090091kl&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400090091kl&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=2400090091kl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=2400090091kl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
 ---
+
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="Programming Languages" />
 </p>
 
 ---
@@ -138,7 +141,7 @@ Currently learning, experimenting, and building new projects to strengthen my so
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Development" />
 </p>
 
 ---
@@ -146,8 +149,8 @@ Currently learning, experimenting, and building new projects to strengthen my so
 ### 🧠 Core Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-181717?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-181717?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Problem Solving" />
 </p>
 
 ---
@@ -155,15 +158,35 @@ Currently learning, experimenting, and building new projects to strengthen my so
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools and Platforms" />
 </p>
 
 ---
----
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/2400090091kl" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:kowshikroyal4402@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Email" />
+</a>
+
+</div>
 
 ---
 
----
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -173,14 +196,15 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </div>
 
 ---
+
 ## 🔥 Coding Streak
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=2400090091kl&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=2400090091kl&theme=github-dark-blue&hide_border=true" alt="GitHub Coding Streak" />
 
 </div>
 
----
 ---
 
 <h2 align="center">🚀 Thanks for visiting my profile!</h2>
