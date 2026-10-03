@@ -9,7 +9,7 @@
 <br>
 
 <!-- HERO BANNER -->
-<img src="./hero.jpg" width="95%" alt="Hero Banner">
+<img src="./profil.jpg" width="95%" alt="Hero Banner">
 
 <br><br>
 
