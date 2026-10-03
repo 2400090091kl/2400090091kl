@@ -163,36 +163,17 @@ Currently learning, experimenting, and building new projects to strengthen my so
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/2400090091kl" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:kowshikroyal4402@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" />
-</a>
-
-</div>
-
 ---
 ## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2400090091kl&theme=github_dark" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2400090091kl&theme=github_dark" width="95%" alt="GitHub Contribution Activity" />
 
 </div>
 
 ---
 ## 🔥 Coding Streak
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=2400090091kl&theme=github-dark-blue&hide_border=true" />
