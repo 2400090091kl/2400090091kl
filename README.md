@@ -159,3 +159,24 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </p>
 
 ---
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/2400090091kl" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-2400090091kl-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kowshik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:kowshikroyal4402@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kowshikroyal4402%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
