@@ -8,8 +8,8 @@
 
 <br>
 
-<!-- HERO PHOTO -->
-<img src="./profile.jpg" width="400" alt="Hero Photo">
+<!-- HERO BANNER -->
+<img src="./hero.jpg" width="95%" alt="Hero Banner">
 
 <br><br>
 
@@ -30,7 +30,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 - 🎓 **2nd Year CSIT Student** at Koneru Lakshmaiah University
 - 💻 Aspiring **Software Engineer**
 - 🧠 Interested in **Data Structures & Algorithms**
