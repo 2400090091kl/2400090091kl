@@ -69,7 +69,23 @@
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools and Platforms">
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git">
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub">
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux">
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" alt="Visual Studio Code">
+</a>
+
 </p>
 
 ---
