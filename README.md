@@ -110,3 +110,18 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </div>
 
 ---
+## 🏆 GitHub Stats & Trophies
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=2400090091kl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400090091kl&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=2400090091kl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+</div>
+
+---
