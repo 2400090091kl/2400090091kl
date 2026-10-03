@@ -125,3 +125,37 @@ Currently learning, experimenting, and building new projects to strengthen my so
 </div>
 
 ---
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+---
+
+### 🧠 Core Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-181717?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
