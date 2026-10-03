@@ -9,8 +9,7 @@
 <br>
 
 <!-- HERO BANNER -->
-<img src="./profil.jpg" width="95%" alt="Hero Banner">
-
+<img src="./profile.jpg" width="400" alt="P. KUMARA VEERA KOWSHIK">
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;CSIT+Student;Problem+Solver;Java+%7C+Python+%7C+C+%7C+C%2B%2B;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG">
