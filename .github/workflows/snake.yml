@@ -28,3 +28,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUILD_DIR: dist
+          ---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/2400090091kl/2400090091kl/output/github-contribution-grid-snake.svg)
+
+</div>
