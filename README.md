@@ -9,7 +9,7 @@
 <br>
 
 <!-- HERO PHOTO -->
-<img src="./profile.jpg" width="700" alt="Hero Photo">
+<img src="./profile.jpg" width="400" alt="Hero Photo">
 
 <br><br>
 
