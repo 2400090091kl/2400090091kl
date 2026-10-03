@@ -163,28 +163,39 @@ Currently learning, experimenting, and building new projects to strengthen my so
 
 ---
 
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://github.com/2400090091kl" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="https://www.linkedin.com/in/kowshik-royal-999ab8360/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" />
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="mailto:kowshikroyal4402@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Email" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Email" />
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
+---
 ---
 
 ## 📊 Contribution Activity
